@@ -10,7 +10,7 @@
 
 const fs = require('fs')
 const { color } = require('./kango/color')
-if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
+if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })KANGO~N6tCFY4Z#twd7TXl1tbFyCdVaTI3srjXQNtKr1XWlD4E294vLUk8
 
 
 //--------------------[ SESSION ID ]----------------------//
