@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/OfficialKango/count.svg" alt="OfficialKango :: Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=OfficialKango&color=blue" alt="Profile Views" />
 </p>
+
 
 <p align="center">
 <a href="https://github.com/OfficialKango/KANGO-XMD-LITE"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a>
