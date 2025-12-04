@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a>
 <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a>
-<a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/233509977126"><img title="Contact Me" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 </p> 
 
 <p align="center">
@@ -40,6 +40,7 @@
 <img src='https://i.imgur.com/LyHic3i.gif'/>
 <img src='https://i.imgur.com/LyHic3i.gif'/>
 </p>
+
 
 ## 🛠️ `KANGO-XMD INSTALLATION`
 
