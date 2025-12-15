@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
+// @project_name : JOSEPH-XMD 
 // @author : Hector 
 // @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @github : Voidshiki909
+// @whatsapp : +2250768421025
 
 //----------------------[ KANGO-XMD ]----------------------//
 
@@ -20,36 +20,36 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
+global.botname = process.env.BOT_NAME || 'JOSEPH-XMD' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '2250768421025' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', '233577860202'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['2250768421025', '2250768421025'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'JOSEPH VOID' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "KANGO-XMD" 
+global.packname = process.env.STICKER_PACK_NAME || "JOSEPH-XMD" 
 
 //--------------[ COUNTRY TIMEZONE ]------------//
 
 
-global.timezones = 'Africa/Accra';  // Set this to you timezone
+global.timezones = 'Africa/ABIDJAN';  // Set this to you timezone
 
 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "JOSEPH" 
 
 //----------------[ GITHUB DATABASE ]-----------------//
 
