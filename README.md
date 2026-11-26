@@ -1,5 +1,30 @@
-``markdown \<p align="center"> \<img align="center" height="auto" src="https://i.imgur.com/1DkLGVk.jpeg" \</p>
+ 
+<div align="center">
 
-!(https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=B%2BA%2BN%2BG%2BO \<br> \<p align="center"> \<a href="https:
+![XR MD BOT](./xr-md-bot.png)
 
-::chatgpt-content-reference{index="1" source_message_id="cc436439-e82c-5ccb-a7a8-f26d28e71eb5"}
+# 🤖 XR MD BOT
+### WhatsApp Bot Builder
+
+**📞 Contact Number**
+
+# `01969174107`
+
+**POWERED BY XR MD**
+
+© 2026 XR MD BOT
+
+</div>
+<div align="center">
+
+<img src="./xr-md-bot.png" width="100%" alt="XR MD BOT">
+
+<h1>🤖 XR MD BOT</h1>
+
+<h3>WhatsApp Bot Builder</h3>
+
+<p>📞 Contact: 01969174107</p>
+
+<b>POWERED BY XR MD</b>
+
+</div>
